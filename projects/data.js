@@ -1,10 +1,10 @@
 const projects = [
     {
         id:'1',
-        name:'Web Chat',
-        image:'https://i.imgur.com/RfojCAM.png',
-        link:'https://web-chatt.netlify.app/',
-        text:'Meet and communicate with your friends',
+        name:'ChatBitz',
+        image:'https://i.imgur.com/77A8C97.png',
+        link:'https://chatbitz.netlify.app/',
+        text:'A chatting web app where you can chat with anyone anywhere',
         level:'advanced',
         show:true
     },
@@ -48,6 +48,51 @@ const projects = [
         videoUrl:"https://i.imgur.com/6cASRxM.mp4",
         show:true
     },
+    {
+        id:"6",
+        name:'JMovies',
+        image:"https://i.imgur.com/Qcv6py7.png",
+        link:"https://jmmovies.netlify.app",
+        level:"semi-advanced",
+        text:"Discover everything movie and Tv series",
+        show:false
+    },
+    {
+        id:"7",
+        name:'Typing Speed',
+        image:"https://i.imgur.com/jK9Z3I8.png",
+        link:"https://jm-typing-speed.netlify.app/",
+        level:"beginner",
+        text:"Witness how fast you type",
+        show:false
+    },
+    {
+        id:"8",
+        name:'Dictionary',
+        image:"https://i.imgur.com/cwYCTCL.png",
+        link:"https://jmprojects-v.netlify.app/dictionary",
+        level:"beginner",
+        text:"Get a dictionary right in your browser",
+        show:false
+    },
+    {
+        id:"9",
+        name:'Quiz hub',
+        image:"https://i.imgur.com/qh1w1WM.png",
+        link:"https://jmquiz.netlify.app/",
+        level:"beginner",
+        text:"Get quized on your favorite topics",
+        show:false
+    },
+    {
+        id:"10",
+        name:'Weather Showcase',
+        image:"https://i.imgur.com/oEgGJNO.png",
+        link:"https://jmweather.netlify.app/",
+        level:"semi-advanced",
+        text:"See the weather of any location",
+        show:false
+    }
 ]
 
 module.exports = projects
