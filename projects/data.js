@@ -92,6 +92,24 @@ const projects = [
         level:"semi-advanced",
         text:"See the weather of any location",
         show:false
+    },
+    {
+        id:'11',
+        name:"World Traveling Agency",
+        image:"https://i.imgur.com/AjsPcFI.png",
+        link:"https://wtaggency.netlify.app/",
+        level:"web-design",
+        text:"A beautiful landing page for a traveling agency",
+        show:true
+    },
+    {
+        id:'12',
+        name:"Furnitur",
+        image:"https://i.imgur.com/b3RncAF.png",
+        link:"https://furnitur-web.netlify.app/",
+        level:"web-design",
+        text:"A beautiful landing page website for a furniture provider service",
+        show:false
     }
 ]
 
